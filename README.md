@@ -1,4 +1,4 @@
-# ScratchPlatformer: Avery's Midnight Adventure
+# ScratchPlatformer: Avery's Adventure
 
 ## About
 This is a small platformer game that is built with Scratch.
